@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/edkiada/Type-Speed-Test)
+- Live Site URL: [Add live site URL here](https://edkiada.github.io/Type-Speed-Test/)
 
 ## My process
 
@@ -65,9 +65,9 @@ Initially, I struggled with the `<select>` element because its default system st
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@edkiada](https://github.com/edkiada)
+- Frontend Mentor - [@edkiada](https://www.frontendmentor.io/profile/edkiada)
+- Email - [yyh901277111@gmail.com](mailto:yyh901277111@gmail.com)
 
 ## Acknowledgments
 
