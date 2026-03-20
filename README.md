@@ -18,10 +18,10 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop Version
-![Typing Test Desktop Screenshot](./screenshot/desktop.png)
+![Typing Test Desktop Screenshot](./screenshot/desktop.jpg)
 
 #### Mobile Version
-![Typing Test Mobile Screenshot](./screenshot/mobile.png)
+![Typing Test Mobile Screenshot](./screenshot/mobile.jpg)
 
 ### Links
 
