@@ -18,10 +18,14 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop Version
-![Typing Test Desktop Screenshot](./screenshot/desktop.jpg)
+<div align="center">
+  <img src="./screenshots/desktop.jpg" width="800" alt="Desktop Screenshot">
+</div>
 
 #### Mobile Version
-![Typing Test Mobile Screenshot](./screenshot/mobile.jpg)
+<div align="center">
+  <img src="./screenshots/mobile.jpg" width="800" alt="Mobile Screenshot">
+</div>
 
 ### Links
 
