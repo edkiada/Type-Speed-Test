@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/edkiada/Type-Speed-Test)
-- Live Site URL: [Add live site URL here](https://edkiada.github.io/Type-Speed-Test/)
+- [Source Code](https://github.com/edkiada/Type-Speed-Test)
+- [Live Demo](https://edkiada.github.io/Type-Speed-Test/)
 
 ## My process
 
